@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Daiyangcheng.
 I'm a senior student in China.
 
-My GPG Key is `7B5A83B6CB11BFDB`
+My GPG Key is `96BC888888888888`
 
 I have a China Company named [Hangzhou Yingyun Network Technology Co., Ltd.]("https://github.com/LoCyan-Team")
 
